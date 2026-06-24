@@ -140,8 +140,7 @@ def reflect_on_user(user_id: str, question: str) -> str:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ShreyaRChittaragi/ai-coding-mentor.git
-cd ai-coding-mentor
+git clone https://github.com/Devika2605/AI_Coding_Mentor
 ```
 
 ### 2. Set up the backend
